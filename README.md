@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MHassaanQureshi
-- 👀 I’m interested in software development
+- 👀 I’m interested in new world technologies
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on diffrent projects.
 - 📫 How to reach me : you can reach out to me on my socials.
