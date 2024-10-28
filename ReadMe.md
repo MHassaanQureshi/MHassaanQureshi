@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @MHassaanQureshi<br>- 👀 I’m interested in new world technologies<br>- 🌱 I’m currently learning React-js , Next-js<br>- 💞️ I’m looking to collaborate on diffrent projects.<br><br>
+- 👋 Hi, I’m @MHassaanQureshi<br>-I'm a passionate Front-End Developer with a love for exploring modern web technologies and building engaging, responsive web applications. Currently, I'm a Computer Science student at Federal Urdu University Karachi and enrolled in the Governor Sindh Initiative for Artificial Intelligence, Web 3.0, and Metaverse. My journey in tech is driven by a curiosity to learn and grow continuously.br><br>
 
 
 ## 🌐 Socials:
