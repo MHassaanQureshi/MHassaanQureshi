@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 👋 Hi, I’m @MHassaanQureshi  
-- 💻 I’m a passionate **Front-End Developer** currently working with **Next.js, TypeScript, and Python** to build modern, scalable web applications.  
+- 💻 I’m a passionate **Front-End Developer** currently working with **MERN Stack, Next.js, TypeScript, and Python** to build modern, scalable web applications.  
 - 🤖 I’m actively exploring **Artificial Intelligence**, including **Claude**, AI agents, and generative AI workflows.  
 - ⚡ I also work with **FastAPI** for building high-performance backend APIs.  
-- 🎓 I’m a **Computer Science student at Federal Urdu University Karachi** and enrolled in the **Governor Sindh Initiative for Artificial Intelligence, Web 3.0, and Metaverse**.  
+- 🎓 I’m a **Computer Science Graduate from Federal Urdu University Karachi** and enrolled in the **Governor Sindh Initiative for Artificial Intelligence, Web 3.0, and Metaverse**.  
 - 🚀 My journey in tech is driven by continuous learning, experimentation, and building impactful products.
 
 ---
