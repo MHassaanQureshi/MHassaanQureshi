@@ -32,7 +32,7 @@ I'm a full-stack developer based in Karachi, building modern web applications wi
 Full-stack vehicle rental platform with secure auth and live booking.
 
 **Stack:** Next.js · MongoDB · JWT Auth
-[`Live Demo`](#) · [`Source`](#)
+[`Live Demo`](https://rent-a-ride-updated.vercel.app/) · [`Source`](https://github.com/MHassaanQureshi/rent-a-ride-updated)
 
 </td>
 <td width="50%" valign="top">
@@ -41,7 +41,7 @@ Full-stack vehicle rental platform with secure auth and live booking.
 eCommerce platform for furniture shopping with a modern checkout flow.
 
 **Stack:** Next.js · Sanity.io
-[`Live Demo`](#) · [`Source`](#)
+[`Live Demo`](https://sanity-comforty.vercel.app/) · [`Source`](https://github.com/MHassaanQureshi/sanity-comforty)
 
 </td>
 </tr>
@@ -52,7 +52,7 @@ eCommerce platform for furniture shopping with a modern checkout flow.
 Dynamic resume builder with live preview and PDF export.
 
 **Stack:** TypeScript · HTML/CSS
-[`Live Demo`](#) · [`Source`](#)
+[`Live Demo`](https://hackathon-milestone-500.vercel.app/) · [`Source`](https://github.com/MHassaanQureshi/hackathon-milestone-5.0.0)
 
 </td>
 <td width="50%" valign="top">
@@ -61,7 +61,7 @@ Dynamic resume builder with live preview and PDF export.
 Clean, modern portfolio showcasing projects and skills.
 
 **Stack:** Next.js · Tailwind CSS
-[`Live Demo`](#) · [`Source`](#)
+[`Live Demo`](https://portfolio-new-six-lyart.vercel.app/) · [`Source`](https://github.com/MHassaanQureshi/portfolio-new)
 
 </td>
 </tr>
