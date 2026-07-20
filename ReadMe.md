@@ -67,7 +67,7 @@ Clean, modern portfolio showcasing projects and skills.
 </tr>
 </table>
 
-> Replace the `#` links above with your live URLs and repo links.
+
 
 <br>
 
